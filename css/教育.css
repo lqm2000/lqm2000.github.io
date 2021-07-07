@@ -1,0 +1,246 @@
+#body
+{
+    background-color:rgb(109, 231, 164);
+    font-family: Microsoft,Yahei;
+    font-size: 12px;
+    margin: 0px;
+    line-height: 1;
+}
+
+#body,p
+{
+    color: black;
+    font-family: SimSun;
+}
+
+a
+{
+    text-decoration: none;
+}
+
+a:visited
+{
+    color: rgb(219, 181, 12);
+    text-decoration: none;
+}
+
+a:hover
+{
+    color: gray;
+    text-decoration: none;
+}
+
+#all
+{
+    background-color: #c5f0c3;
+    width: 1500px;
+    height:1840px;
+    margin:0 auto;
+}
+
+#part1
+{
+    width: auto;
+    height: 150px;
+    background-color: rgb(40, 139, 128);
+}
+
+h2
+{
+    color: rgb(243, 195, 140);
+    font-family: cursive;
+    font-size: 30px;
+    margin-left: 50px;
+}
+
+h1
+{
+    color: rgb(240, 211, 84);
+    font-family: cursive;
+    font-size: 50px;
+    text-align: center;
+}
+
+h3
+{
+    color: rgb(187, 156, 16);
+    font-family: cursive;
+    font-size: 25px;
+}
+
+h4
+{
+    color: rgb(141, 116, 5);
+    float: left;
+    width: 100%;
+}
+
+#Header
+{
+    height: 50px;
+    background-color: #487475;
+    width: 100%;
+}
+
+#nav-item
+{
+   
+    float: left;
+    position: relative;
+    font-size: medium;
+    color: #fff;
+}
+
+#firstul li
+{
+    padding:0 150px;
+    display: inline-block;
+    cursor: pointer;
+    vertical-align: bottom;
+    padding-bottom: 10px;
+}
+
+#firstul li a
+{
+    font-size: 20px;
+    font-weight: normal;
+    color: rgb(229, 216, 157);
+    font-family: "Microsoft Yahei";
+    display: block;
+    text-align: center;
+    position: relative;
+    z-index: 100;
+    text-decoration: none;
+}
+
+#part2
+{
+    width: 1200px;
+    height: 400px;
+    overflow: hidden;
+    margin: 5px 100px 5px 100px;
+}
+
+#backimage>img
+{
+    width: 1200px;
+    height: 400px;
+}
+
+#part3
+{
+    margin-top: 10px;
+    height: 300px;
+}
+
+#inner
+{
+    background-color: #c5f0c3;
+    padding-bottom: 50px;
+    margin: 0 auto;
+}
+
+#menu
+{
+    width: 140px;
+    float: left;
+    margin-left: 10px;
+    margin-top: 15px;
+}
+
+#secondul
+{
+    
+    border: solid rgb(141, 116, 5);
+    display: block;
+    width: 100%;
+    list-style: none;
+}
+
+#menu-name
+{
+    display: block;
+    width: 100%;
+    vertical-align: bottom;
+    padding-top: 8px;
+    margin-bottom: 10px;
+}
+
+#menu-name a
+{
+    font-size: 18px;
+}
+
+#discription
+{
+    width: 800px;
+    float: right;
+    margin-right: 10px;
+    margin-top: 15px;
+    min-height: 600px;
+    text-indent: 2em;
+}
+
+#head-title
+{
+    display: inline-block;
+    float: left;
+    height: 35px;
+    line-height: 30px;
+}
+
+#thirdul li
+{
+    list-style: none;
+    text-align: center;
+}
+
+#school-path
+{
+    display: inline-block;
+    float: right;
+    height: 18px;
+    line-height: 18px;
+    font-size: 12px;
+    margin-top: 5px;
+}
+
+#induction
+{
+    margin-top: 55px;
+    text-align: center;
+}
+
+#part4
+{
+    background-color: #19b4b4;
+    width: 100%;
+    margin: 0 auto;
+}
+
+#inner-1
+{
+    height:137px;
+    width: 1000px;
+}
+
+#foot
+{
+    margin-top: 20px;
+    margin-left: 450px;
+    padding: 0 10px;
+}
+
+#foot-content p
+{
+    text-align: center;
+    line-height: 20px;
+    color: rgb(253, 239, 174);
+    font-size: 14px;
+}
+
+#foot-content img
+{
+    width:20px;
+    height: 15px;
+}

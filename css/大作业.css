@@ -1,0 +1,401 @@
+#body
+{
+    background-color:rgb(109, 231, 164);
+    font-family: Microsoft,Yahei;
+    font-size: 12px;
+    margin: 0px;
+    line-height: 1;
+}
+
+#all
+{
+    background-color: #c5f0c3;
+    width: 1500px;
+    height:auto;
+    margin:0 auto;
+}
+
+#part1
+{
+    width: auto;
+    height: 150px;
+    background-color: rgb(40, 139, 128);
+}
+
+h2
+{
+    color: rgb(243, 195, 140);
+    font-family: cursive;
+    font-size: 30px;
+    margin-left: 50px;
+}
+
+h1
+{
+    color: rgb(240, 211, 84);
+    font-family: cursive;
+    font-size: 50px;
+    text-align: center;
+}
+
+#Header
+{
+    height: 50px;
+    background-color: #487475;
+    width: 100%;
+}
+
+#nav-item
+{
+   
+    float: left;
+    position: relative;
+    font-size: medium;
+    color: #fff;
+}
+
+#firstul li
+{
+    padding:0 150px;
+    display: inline-block;
+    cursor: pointer;
+    vertical-align: bottom;
+    padding-bottom: 10px;
+}
+
+#firstul li a
+{
+    font-size: 20px;
+    font-weight: normal;
+    color: rgb(229, 216, 157);
+    font-family: "Microsoft Yahei";
+    display: block;
+    text-align: center;
+    position: relative;
+    z-index: 100;
+    text-decoration: none;
+}
+
+#part2
+{
+    width: 1200px;
+    height: 400px;
+    overflow: hidden;
+    margin: 5px 100px 5px 100px;
+}
+
+#backimage>img
+{
+    width: 1200px;
+    height: 400px;
+}
+
+
+#part3
+{
+    background-color: rgb(186, 245, 215);
+    margin: 20px 30px 20px 30px;
+    border-style: ridge;
+    border-color: rgb(61,197,191);
+    height:1160px;
+}
+
+#part-title1
+{
+    background-color: rgb(61, 197, 190);
+    text-align: center;
+    font-family:STKaiti;
+    font-size: 20px;
+    padding: 2px 0 2px 0;
+}
+
+#part-title2
+{
+    color:rgb(43, 55, 94);
+    text-align: left;
+    font-family: STSong;
+    border-style:ridge;
+    margin-top: 10px;
+    margin-left: 70px;
+    margin-right: 70px;
+    text-align: center;
+}
+
+#area1
+{
+    background-color: rgb(233, 248, 220);
+    width: 600px;
+    height: 505px;
+    margin-top: 10px;
+    margin-left: 70px;
+    float: left;
+}
+
+#headline
+{
+    text-align: center;
+    padding-bottom: 5px;
+    padding-top: 5px;
+}
+
+#image
+{
+    width: 500px;
+    height: 200px;
+    padding: 2px 40px 2px 40px ;
+}
+
+li
+{
+    list-style: none;
+}
+
+a:link
+{
+    color: black;
+    text-decoration: none;
+}
+
+
+a:hover
+{
+    color: gray;
+    text-decoration: none;
+}
+
+
+#news-title
+{
+    text-align:justify;
+    float: left;
+    text-align: center;
+    padding-right: 100px;
+    padding-top: 10px;
+}
+
+#news-time
+{
+    padding-left: 100px;
+    padding-top: 35px;
+}
+
+#news-image
+{
+    width: 80px;
+    height:40px;
+    margin-top: -40px;
+    padding-right: 10px;
+    float: right;
+}
+
+#more-part
+{
+    padding-top: 15px;
+    padding-right: 10px;
+    padding-bottom: 15px;
+    float: right;
+    font-size: small;
+}
+
+#area2
+{
+    background-color: rgb(233, 248, 220);
+    width: 600px;
+    height: 505px;
+    margin-top: 10px;
+    margin-right: 70px;
+    float: right;
+}
+#part-title3
+{
+    color:rgb(43, 55, 94);
+    text-align: left;
+    font-family: STSong;
+    border-style:ridge;
+    margin-top: 525px;
+    margin-left: 70px;
+    margin-right: 70px;
+    text-align: center;
+}
+
+#area3
+{
+    background-color: rgb(233, 248, 220);
+    width: 600px;
+    height: 520px;
+    margin-top: 10px;
+    margin-left: 70px;
+    float: left;
+}
+
+#area4
+{
+    background-color: rgb(233, 248, 220);
+    width: 600px;
+    height: 520px;
+    margin-top: 10px;
+    margin-right: 70px;
+    float: right;
+}
+
+#part4
+{
+    background-color: rgb(186, 245, 215);
+    margin: 10px 30px 20px 30px;
+    height:630px;
+    border-style: ridge;
+    border-color: rgb(61,197,191);
+}
+
+#part4 p
+{
+    text-indent: 2em;
+}
+
+#area5
+{
+    background-color: rgb(220, 248, 221);
+    width: 400px;
+    height: 550px;
+    margin-top: 20px;
+    float: left;
+    margin-left: 20px;
+    overflow: hidden;
+    padding: 0px 10px 10px 10px;
+}
+
+#area6
+{
+    background-color: rgb(220, 248, 221);
+    width: 400px;
+    height: 550px;
+    margin-top: 20px;
+    margin-left: 60px;
+    float: left;
+    padding:0px 10px 10px 10px;
+}
+
+#area7
+{
+    background-color: rgb(220, 248, 221);
+    width: 410px;
+    height: 560px;
+    margin-top: 20px;
+    margin-right: 20px;
+    float: right;
+}
+
+#part4-image
+{
+    text-align: center;
+}
+
+#part5
+{
+    
+    background-color: rgb(186, 245, 215);
+    margin: 10px 30px 10px 30px;
+    border-style: ridge;
+    border-color: rgb(61,197,191);
+    width: 1435px;
+    height: 200px;
+    overflow: hidden;
+    position: relative;
+}
+
+
+#views
+{
+    width: 3000px;
+    position: absolute;
+    animation: switch 20s ease-out infinite;
+}
+
+#views>img
+{
+    float: left;
+    width:300px;
+    height: 150px;
+}
+
+@keyframes switch
+{
+    0%,7%
+    {
+        margin-left: 0;
+    }
+    10%,17%
+    {
+        margin-left: -300px;
+    }
+    20%,27%
+    {
+        margin-left: -600px;
+    }
+    30%,37%
+    {
+        margin-left: -900px;
+    }
+    40%,47%
+    {
+        margin-left: -1200px;
+    }
+    50%,57%
+    {
+        margin-left: -1500px;
+    }
+    60%,67%
+    {
+        margin-left: -1800px;
+    }
+    70%,77%
+    {
+        margin-left: -2100px;
+    }
+    80%,87%
+    {
+        margin-left: -2400px;
+    }
+    90%,100%
+    {
+        margin-left: -2700px;
+    }
+    100%,0%
+    {
+
+    }
+}
+
+#part6
+{
+    background-color: #19b4b4;
+    width: 100%;
+    margin: 0 auto;
+}
+
+#inner
+{
+    height:137px;
+    width: 1000px;
+}
+
+#foot
+{
+    margin-top: 20px;
+    margin-left: 450px;
+    padding: 0 10px;
+}
+
+#foot-content p
+{
+    text-align: center;
+    line-height: 20px;
+    color: rgb(253, 239, 174);
+    font-size: 14px;
+}
+
+#foot-content img
+{
+    width:20px;
+    height: 15px;
+}

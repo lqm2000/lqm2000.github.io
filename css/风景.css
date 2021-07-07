@@ -1,0 +1,194 @@
+#body
+{
+    background-color:rgb(109, 231, 164);
+    font-family: Microsoft,Yahei;
+    font-size: 12px;
+    margin: 0px;
+    line-height: 1;
+}
+
+#all
+{
+    background-color: #c5f0c3;
+    width: 1500px;
+    height:auto;
+    margin:0 auto;
+}
+
+#part1
+{
+    width: auto;
+    height: 150px;
+    background-color: rgb(40, 139, 128);
+}
+
+h2
+{
+    color: rgb(243, 195, 140);
+    font-family: cursive;
+    font-size: 30px;
+    margin-left: 50px;
+}
+
+h1
+{
+    color: rgb(240, 211, 84);
+    font-family: cursive;
+    font-size: 50px;
+    text-align: center;
+}
+
+#Header
+{
+    height: 50px;
+    background-color: #487475;
+    width: 100%;
+}
+
+#nav-item
+{
+   
+    float: left;
+    position: relative;
+    font-size: medium;
+    color: #fff;
+}
+
+#firstul li
+{
+    padding:0 150px;
+    display: inline-block;
+    cursor: pointer;
+    vertical-align: bottom;
+    padding-bottom: 10px;
+}
+
+#firstul li a
+{
+    font-size: 20px;
+    font-weight: normal;
+    color: rgb(229, 216, 157);
+    font-family: "Microsoft Yahei";
+    display: block;
+    text-align: center;
+    position: relative;
+    z-index: 100;
+    text-decoration: none;
+}
+
+#part2
+{
+    width: 1200px;
+    height: 400px;
+    overflow: hidden;
+    margin: 5px 100px 5px 100px;
+}
+
+#backimage>img
+{
+    width: 1200px;
+    height: 400px;
+}
+
+#part3
+{
+    margin-top: 20px;
+    height: 3110px;
+    border-radius: inherit;
+    border-style: solid;
+    background-color: rgb(236, 253, 204);
+    border-color: lightslategray;
+}
+
+#part3 h2
+{
+    text-align: center;
+    text-indent: 18px;
+    color:rgb(185, 171, 8);
+}
+
+#area1-discripe
+{
+    width: 950px;
+    height: 380px;
+    float: left;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+#area1-discripe p
+{
+    text-indent: 2em;
+    font-size: 14px;
+}
+
+#area1-img
+{
+    float: right;
+    width: 400px;
+    height: 300px;
+    margin-right: 20px;
+}
+
+#area2-discripe
+{
+    width: 950px;
+    height: 380px;
+    float: right;
+    margin-right: 10px;
+    margin-left: 10px;
+}
+
+#area2-discripe p
+{
+    text-indent: 2em;
+    font-size: 14px;
+}
+
+#area2-img
+{
+    
+    width: 400px;
+    height: 300px;
+    margin-left: 10px;
+}
+.new{
+    float: left;
+    width: 400px;
+    height: 300px;
+}
+
+
+#part4
+{
+    background-color: #19b4b4;
+    width: 100%;
+    margin: 0 auto;
+}
+
+#inner
+{
+    height:137px;
+    width: 1000px;
+}
+
+#foot
+{
+    margin-top: 20px;
+    margin-left: 450px;
+    padding: 0 10px;
+}
+
+#foot-content p
+{
+    text-align: center;
+    line-height: 20px;
+    color: rgb(253, 239, 174);
+    font-size: 14px;
+}
+
+#foot-content img
+{
+    width:20px;
+    height: 15px;
+}

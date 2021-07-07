@@ -1,0 +1,145 @@
+#Forms
+{
+    padding-top: 15px;
+    padding-left: 172px;
+    padding-right: 172px;
+    padding-bottom: 40px;
+    background-color: honeydew;
+    margin:0 auto;
+}
+
+#title
+{
+    border-bottom: 2px solid #0d5f02;
+    color:rgb(75, 74, 74);
+    text-align: center;
+    height:43px;
+    overflow: hidden;
+}
+
+h1
+{
+    line-height: 15px;
+    font-size :28px;
+    font-family: "Microsoft Yahei";
+    font-weight: normal;
+    padding-bottom: 10px;
+    padding-top: -1px;
+}
+
+#head-text
+{
+    text-align: left;
+    padding:30px 65px 15px 35px;
+}
+
+#text
+{
+    line-height: 25px;
+    text-align: left;
+    color: #1d2d45;
+    font-size: 16px;
+}
+
+#head-1
+{
+    text-align: left;
+    margin:0;
+    padding-bottom: 10px;
+}
+
+#head-2
+{
+    text-align: left;
+    margin:0;
+    padding-bottom: 10px;
+}
+
+.head-name
+{
+    font-size: 16px;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+
+#questions-part
+{
+    width: 100%;
+    margin: 0 auto 10px auto;
+    border: 1px solid #97f8db;
+    padding: 1px;
+    background-color: #e1f8e6;
+}
+
+#questions
+{
+    font-family: verdana;
+    font-size: 12px;
+    font-weight: bold;
+    text-align: left;
+    padding: 3px 1px 3px 1px;
+}
+
+.question-title
+{
+    color:black;
+    font-family: verdana;
+    font-style: normal;
+}
+
+.symbol
+{
+    color: red;
+    font-size: 9px;
+    font-family: verdana;
+    margin-right: 5px;
+}
+
+label
+{
+    font-weight:bold;
+    text-align: right;
+}
+
+#answers
+{
+    padding: 15px 24px 20px 37px;
+    text-align: left;
+}
+
+#answers p
+{
+    font-family: Microsoft Yahei;
+    text-align: left;
+    margin: 0 0 0.5em 0.5em;
+}
+
+#input
+{
+    padding: 11px 24px 16px 37px;
+    text-align: left;
+}
+
+.submit
+{
+    display: inline-block;
+    position: relative;
+    padding:0;
+    margin-left: 550px;
+    margin-right: 1em;
+    text-decoration: none !important;
+    cursor: pointer;
+    text-align: center;
+    zoom: 1;
+    overflow: visible;
+    font-weight: bold;
+    border-radius: 6px;
+}
+
+.button-text
+{
+    display: block;
+    padding:0.4em 0.5em;
+    line-height: 1.4;
+    color: #04612e;
+}
